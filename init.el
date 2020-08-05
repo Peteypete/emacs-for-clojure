@@ -145,7 +145,7 @@
  '(coffee-tab-width 2)
  '(package-selected-packages
    (quote
-    (command-log-mode magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell)))
+    (parinfer use-package command-log-mode magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell)))
  '(winner-mode t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
@@ -156,3 +156,5 @@
 
 ;; from Mastering Emacs pg 92
 (global-set-key (kbd "M-o") 'other-window)
+
+(desktop-save-mode 1)

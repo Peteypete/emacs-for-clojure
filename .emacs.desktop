@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Aug  5 10:55:33 2020
+;; Desktop file format version 208
+;; Emacs version 26.3
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24362 62101 783539 0) (desktop . "208") "peterwen@Peters-MacBook-Pro.local" nil nil ((((minibuffer . t) (font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-14-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (undecorated) (ns-appearance . unbound) (ns-transparent-titlebar . unbound) (z-group) (no-focus-on-map) (no-accept-focus) (menu-bar-lines . 0) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (environment) (border-color . "#2a2a2a") (frameset--id . "06A6-2DB5-5EE5-E515") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (visibility . t) (display . "Peters-MacBook-Pro.local") (explicit-name) (tool-bar-position . top) (height . 84) (width . 300) (left . 0) (top . 23)) ((min-height . 8) (min-width . 30) (min-height-ignore . 4) (min-width-ignore . 17) (min-height-safe . 2) (min-width-safe . 6) (min-pixel-height . 128) (min-pixel-width . 240) (min-pixel-height-ignore . 64) (min-pixel-width-ignore . 136) (min-pixel-height-safe . 32) (min-pixel-width-safe . 48)) hc (pixel-width . 2416) (pixel-height . 1328) (total-width . 302) (total-height . 83) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 984) (pixel-height . 1328) (total-width . 123) (total-height . 83) (normal-height . 1.0) (normal-width . 0.4072847682119205) (buffer "sample.cljs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1429) (start . 1))) (vc (last . t) (pixel-width . 1432) (pixel-height . 1328) (total-width . 179) (total-height . 83) (normal-height . 1.0) (normal-width . 0.5927152317880795) (combination-limit) (hc (pixel-width . 1432) (pixel-height . 656) (total-width . 179) (total-height . 41) (normal-height . 0.49397590361445787) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1112) (pixel-height . 656) (total-width . 139) (total-height . 41) (normal-height . 1.0) (normal-width . 0.776536312849162) (buffer "init.el" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 320) (pixel-height . 656) (total-width . 40) (total-height . 41) (normal-height . 1.0) (normal-width . 0.22346368715083798) (buffer " *command-log*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated . t) (point . 230) (start . 1)))) (leaf (last . t) (pixel-width . 1432) (pixel-height . 672) (total-width . 179) (total-height . 42) (normal-height . 0.5060240963855421) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/Users/peterwen/.emacs.d/init.el" "/Users/peterwen/Documents/Emacs/sample.cljs" "~/.emacs.d/ido.last" "~/Documents/Emacs/sample.cljs" "~/.emacs.d/init.el" "~/.emacs.d/customizations/setup-clojure.el" "~/.emacs.d/elpa/parinfer-0.4.10/parinfer-autoloads.el" "~/.emacs.d/elpa/use-package-2.4/use-package-autoloads.el" "~/.emacs.d/elpa/bind-key-20191110.416/bind-key-autoloads.el" "~/.emacs.d/elpa/command-log-mode-20160413.447/command-log-mode-autoloads.el" "/usr/share/info/bash.info" "~/.emacs.d/customizations/editing.el" "~/Applications/Trader Workstation/Trader Workstation Uninstaller.app/Contents/Info.plist" "~/Documents/GitHubFrontEnd/learn-re-frame-course-files/increments/14-form-group/src/app/components/page_nav.cljs" "~/.emacs.d/customizations/ui.el" "~/.emacs.d/customizations/elisp-editing.el" "~/Documents/GitHubFrontEnd/learn-re-frame-course-files/increments/21-router/src/app/components/form_group.cljs" "~/.emacs.d/customizations/misc.el" "~/.emacs.d/customizations/navigation.el" "~/Documents/GitHubFrontEnd/learn-re-frame-course-files/increments/21-router/src/app/components/page_nav.cljs" "~/Documents/GitHubFrontEnd/learn-re-frame-course-files/README.md" "~/Documents/Emacs/emacs-notes"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/peterwen/Documents/Emacs/sample.cljs"
+  "sample.cljs"
+  'clojure-mode
+  '(projectile-mode linum-mode paredit-mode override-global-mode parinfer-mode rainbow-delimiters-mode command-log-mode subword-mode)
+  1429
+  '(1429 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24362 62040 295700 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1621 1427))))
+
+(desktop-create-buffer 208
+  "/Users/peterwen/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(eldoc-mode projectile-mode linum-mode paredit-mode override-global-mode parinfer-mode rainbow-delimiters-mode command-log-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24362 62043 656822 0) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
